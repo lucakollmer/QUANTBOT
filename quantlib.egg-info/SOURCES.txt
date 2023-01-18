@@ -2,6 +2,7 @@ setup.py
 quantlib/__init__.py
 quantlib/data_utils.py
 quantlib/general_utils.py
+quantlib/indicators_cal.py
 quantlib.egg-info/PKG-INFO
 quantlib.egg-info/SOURCES.txt
 quantlib.egg-info/dependency_links.txt
